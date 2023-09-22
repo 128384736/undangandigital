@@ -1,0 +1,24 @@
+<!DOCTYPE html>... </html>: Ini tag awal dan akhir dari html
+
+<head>: Bagian ini isinya ada informasi meta, kayak karakter yang digunakan, title, dan title icon.
+
+<body>: Ini adalah tempat konten utama halaman web yang akan ditampilkan kepada pengguna. Semua elemen HTML yang terlihat oleh pengguna berada dalam tag <body>.
+
+<nav>: Ini adalah elemen navigasi yang berisi menu navigasi. Terdapat tautan ke beranda (Home), tentang (About), galeri (Galeri), lokasi (Location), dan catatan (Note).
+
+<section>: Ini adalah elemen HTML yang digunakan untuk mengelompokkan konten ke dalam bagian-bagian yang berbeda. Ada beberapa bagian yang diidentifikasi dengan atribut id, seperti "home," "about," "galeri," dan "lokasi."
+
+<audio>: Ini adalah elemen HTML untuk memasukkan pemutar audio. Pada contoh ini, terdapat file musik yang akan diputar secara otomatis.
+
+<h3>, <h4>: Ini adalah elemen untuk mengatur tampilan teks. <h3> digunakan untuk menampilkan judul undangan pernikahan, sementara <h4> digunakan untuk menampilkan teks hadis.
+
+<img>: Ini adalah elemen untuk menampilkan gambar. Gambar-gambar ini mungkin berisi foto calon pengantin.
+
+<button>: Ini adalah elemen tombol yang digunakan untuk menampilkan tanggal pernikahan.
+
+Tautan (<a>): Tautan ini mengarahkan pengguna ke halaman lain, seperti beranda, tentang, galeri, lokasi, dan catatan.
+
+Komentar HTML (<!-- ... -->): Komentar digunakan untuk memberikan catatan kepada pengembang atau pembaca mengenai bagian-bagian tertentu dalam kode HTML.
+
+
+
